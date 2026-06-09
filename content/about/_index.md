@@ -9,7 +9,7 @@ I also like programming, check out my [github](https://github.com/CodeFromKerala
 
 I play basketball. I listen to, and produce music. I love to yap, but nobody seems interested enough. *insert lone wolf noises*
 
-I can be unbelievable cringe, as well as nonchalant beyond bounds. Depends on when you see me.
+I can be unbelievably cringe, as well as nonchalant beyond bounds. Depends on when you see me.
 
 Currently, I'm an intern at IISER-TVM, learning analysis. I'm also writing a paper for presentation at [RAAM, 2026](https://sites.google.com/view/raam2026/) at IIT Hyderabad. Hit me up if you are going too :)
 

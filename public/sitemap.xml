@@ -9,13 +9,19 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/notes/frac-calc/</loc>
+  </url><url>
     <loc>http://localhost:1313/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/frac-calc/localvsglobal/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/music/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/frac-calc/opandbasics/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>

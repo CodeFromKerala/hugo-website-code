@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Fractional Calculus on Madhav&#39;s Site</title>
+		<link>http://localhost:1313/notes/frac-calc/</link>
+		<description>Recent content in Fractional Calculus on Madhav&#39;s Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/notes/frac-calc/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Locality vs Globality</title>
+				<link>http://localhost:1313/notes/frac-calc/localvsglobal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notes/frac-calc/localvsglobal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Operator and Basics</title>
+				<link>http://localhost:1313/notes/frac-calc/opandbasics/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notes/frac-calc/opandbasics/</guid>
+				<description>&lt;h3 id=&#34;what-is-an-operator-&#34;&gt;What is an Operator ?&lt;/h3&gt;&#xA;&lt;p&gt;An operator can be thought of as a function of functions. To be clearer, it maps a function to another. For example, similar to how $ f(x) $ maps $ x \to y $ as $f(x) = y$, we can use $O$, which is an operator to map $f \to g$ as $O \, f = g$.&lt;/p&gt;&#xA;&lt;h3 id=&#34;where-did-this-fractional-calculus-idea-come-from-&#34;&gt;Where did this fractional calculus idea come from ?&lt;/h3&gt;&#xA;&lt;p&gt;Well, the fractional calculus story begins with Riemann, &lt;em&gt;who formed a kernel through heuristic methods&lt;/em&gt;, which is a complicated way of saying that he made an educated guess as to which what the fractional derivative operator will look like. His work was continued by Liouville, who found a inductive proof of the Riemann operator.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
