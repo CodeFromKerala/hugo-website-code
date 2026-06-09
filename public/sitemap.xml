@@ -3,30 +3,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://codefromkerala.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://codefromkerala.github.io/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://codefromkerala.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/frac-calc/</loc>
+    <loc>https://codefromkerala.github.io/notes/frac-calc/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://codefromkerala.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/frac-calc/localvsglobal/</loc>
+    <loc>https://codefromkerala.github.io/notes/frac-calc/localvsglobal/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://codefromkerala.github.io/blog/music/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/music/</loc>
+    <loc>https://codefromkerala.github.io/notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>https://codefromkerala.github.io/notes/frac-calc/opandbasics/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/frac-calc/opandbasics/</loc>
+    <loc>https://codefromkerala.github.io/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://codefromkerala.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/website/</loc>
+    <loc>https://codefromkerala.github.io/blog/website/</loc>
   </url>
 </urlset>

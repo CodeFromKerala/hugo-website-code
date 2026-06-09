@@ -1,6 +1,9 @@
 ---
 Title: Operator and Basics
 ---
+[back](/notes/frac-calc)
+
+9th June 2026
 
 ### What is an Operator ?
 
@@ -65,3 +68,27 @@ Here, we show a scatter plot for the factorial function $y = x!$. If we draw a s
 Here, you may notice some inconsistancies with both graphs around $x = 0$. This is because the analytic continuation, otherwise the Gamma function, has *poles* at $x = 0$. Now, poles is a fun way of saying that the function diverges to $\pm \infty$.
 
 In fractional calculus, we use the function $\Gamma(x)$ to replace the factorial functions, but in the practical field, we use the logarithm of the Gamma function for more accurate results.
+
+### Back to core idea
+
+Here's the next question - How do we define $D^r$ to act on all functions ? 
+
+Well, here's a fun way, use the Taylor series. But why ?
+
+With the Taylor series, we can expand a *analytic* (extract from noggin) function to its taylor series and apply the operator term by term.
+
+$$ f(x) = \lim_{n\to\infty}\sum_{k=0}^n \frac{f^{(k)}(\alpha)}{k!} (x-\alpha)^{k} $$
+
+Applying the operator and simplifying, we get,
+
+$$ D^r_\alpha f(x) = \lim_{n \to \infty}\sum_{k=0}^n \frac{f^{(k)}(\alpha)}{\Gamma(k-r+1)} (x-\alpha)^{k-r} $$
+
+Which is fun and all, but there are some limitations to this formula, which we can discuss later. (Hint: Maybe you don't wanna go down that rabbit hole if you wanna preserve your sanity.)
+
+Also notice that we added a sly $\alpha$ to our operator's subscript ? Well, since we can expand the Taylor series at any point, we can choose whatever $\alpha \in \mathbb{R}$ we want. (Hint 2: This rabbit hole is kinda fun, let me know if yall wanna lose 50% sanity.)
+
+For example to the above statement, we can write down $D^\pi_{0. \bar 9} f(x)$ and it will make sense. Well, that depends on what $f(x)$ you take. Eh, that we can see for later.
+
+Thanks for reading and lots of ummas,
+
+Madhav

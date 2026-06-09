@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <header>
 
     <h1>
-        <a href="/home">Madhav J Nair</a>
+        <a href="/">Madhav J Nair</a>
     </h1>
 
     <nav>
@@ -61,7 +61,26 @@ document.addEventListener("DOMContentLoaded", function () {
         
 
 <article>
-    
+    <p><a href="/notes/frac-calc">back</a></p>
+<p>9th June 2026</p>
+<p>Ooh baby, this is where shit gets real.</p>
+<h3 id="what-is-locality-and-globality-btw-">What is Locality and Globality btw ?</h3>
+<p>Ok so think about an operator like derivative at some point $a$. This derivative only requires the behaviour of the function in the <em>neighbourhood</em> of a point like $a = 0$. Hence, we call it local.</p>
+<p>We denote this &ldquo;neighbourhood&rdquo; by $x \in [a - \epsilon, a + \epsilon]$ or $|x-a| &lt; \epsilon$.</p>
+<p>For an operator like convolution, it requires the behaviour of the function over a range, $x \in [\alpha, \beta]$. The resultant is dependent on how the function behaves throughout the given interval. Hence we call it global.</p>
+<p>Confused ? Here&rsquo;s a better definition.</p>
+<p>Operator - Local $\iff$ function - near $a$ matters.</p>
+<p>Operator - Global $\iff$ function - all throughout some interval like $[\alpha, \beta]$.</p>
+<p><em>Lemme be real for a moment - Don&rsquo;t worry if you don&rsquo;t get this, hit me up if you got any questions as always.</em></p>
+<h3 id="why-talk-about-this-in-fractional-calculus-">Why talk about this in fractional calculus ?</h3>
+<p>Well, the main difference between my idea and classical operators are that my framework is local and the classical operators are global in nature.</p>
+<p>Locality does have it&rsquo;s perks, because it allows the use of infinite series, which, once truncated (cut into smaller pieces), can be used to numerically approximate fractional derivatives.</p>
+<p>But globality is why most applications exist for fractional calculus, of the wierd ability of the operators to take the &ldquo;past&rdquo; of the function into account to produce a value for a given point.</p>
+<p>My operator can be developed into the classical operators through some clever algebra and analysis tricks, but the philosophical answer as to how the local series becomes global remains unanswered.</p>
+<p>Thanks for reading, lots of ummas,</p>
+<p>Madhav</p>
+<p>PS: Most of my extended work are to be presented at <a href="https://sites.google.com/view/raam2026/">RAAM, 2026</a> at IIT Hyderabad. So after the conference, I will post the break down of the paper here in further notes.</p>
+
 </article>
 
 

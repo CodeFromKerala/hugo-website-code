@@ -1,6 +1,10 @@
 ---
 Title: This Website
 ---
+[back](/blog)
+
+8th June 2026
+
 Hey,
 
 Making the website you are reading right now wasn't a one hit wonder. I went through 2 stages of unfinished basic HTML-CSS crap, 3 stages of anguish and hatred, then migrated to react, and now settled on [hugo](https://gohugo.io/), a static web-page framework.
