@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -100,13 +100,13 @@ Here, you may notice some inconsistancies with both graphs around $x = 0$. This 
 <h3 id="back-to-core-idea">Back to core idea</h3>
 <p>Here&rsquo;s the next question - How do we define $D^r$ to act on all functions ?</p>
 <p>Well, here&rsquo;s a fun way, use the Taylor series. But why ?</p>
-<p>With the Taylor series, we can expand a <em>analytic</em> (extract from noggin) function to its taylor series and apply the operator term by term.</p>
+<p>With the Taylor series, we can expand a <em>analytic</em> (extract from noggin) function to a polynomial (which we know how to apply fractional derivative) and apply the operator term by term.</p>
 <p>$$ f(x) = \lim_{n\to\infty}\sum_{k=0}^n \frac{f^{(k)}(\alpha)}{k!} (x-\alpha)^{k} $$</p>
 <p>Applying the operator and simplifying, we get,</p>
 <p>$$ D^r_\alpha f(x) = \lim_{n \to \infty}\sum_{k=0}^n \frac{f^{(k)}(\alpha)}{\Gamma(k-r+1)} (x-\alpha)^{k-r} $$</p>
 <p>Which is fun and all, but there are some limitations to this formula, which we can discuss later. (Hint: Maybe you don&rsquo;t wanna go down that rabbit hole if you wanna preserve your sanity.)</p>
 <p>Also notice that we added a sly $\alpha$ to our operator&rsquo;s subscript ? Well, since we can expand the Taylor series at any point, we can choose whatever $\alpha \in \mathbb{R}$ we want. (Hint 2: This rabbit hole is kinda fun, let me know if yall wanna lose 50% sanity.)</p>
-<p>For example to the above statement, we can write down $D^\pi_{0. \bar 9} f(x)$ and it will make sense. Well, that depends on what $f(x)$ you take. Eh, that we can see for later.</p>
+<p>As an example to the above statement, we can write down $D^\pi_{0. \bar 9} f(x)$ and it will make sense. Well, that depends on what $f(x)$ you take. Eh, that we can see for later.</p>
 <p>Thanks for reading and lots of ummas,</p>
 <p>Madhav</p>
 

@@ -75,7 +75,7 @@ Here's the next question - How do we define $D^r$ to act on all functions ?
 
 Well, here's a fun way, use the Taylor series. But why ?
 
-With the Taylor series, we can expand a *analytic* (extract from noggin) function to its taylor series and apply the operator term by term.
+With the Taylor series, we can expand a *analytic* (extract from noggin) function to a polynomial (which we know how to apply fractional derivative) and apply the operator term by term.
 
 $$ f(x) = \lim_{n\to\infty}\sum_{k=0}^n \frac{f^{(k)}(\alpha)}{k!} (x-\alpha)^{k} $$
 
@@ -87,7 +87,7 @@ Which is fun and all, but there are some limitations to this formula, which we c
 
 Also notice that we added a sly $\alpha$ to our operator's subscript ? Well, since we can expand the Taylor series at any point, we can choose whatever $\alpha \in \mathbb{R}$ we want. (Hint 2: This rabbit hole is kinda fun, let me know if yall wanna lose 50% sanity.)
 
-For example to the above statement, we can write down $D^\pi_{0. \bar 9} f(x)$ and it will make sense. Well, that depends on what $f(x)$ you take. Eh, that we can see for later.
+As an example to the above statement, we can write down $D^\pi_{0. \bar 9} f(x)$ and it will make sense. Well, that depends on what $f(x)$ you take. Eh, that we can see for later.
 
 Thanks for reading and lots of ummas,
 
