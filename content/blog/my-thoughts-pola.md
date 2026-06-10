@@ -30,7 +30,7 @@ Louis de Broglie, was lowkey trying to see where physics and math broke ties wit
 
 $$ E = mc^2 \qquad E = h\nu $$
 
-Now, de Broglie wasn't a retard, like some of yall. He knew that these things could be put together. $E$ or energy on both sides so why not equate ?
+Now, de Broglie wasn't a retard, like some of yall. He knew that these things could be put together. $E$ or energy on both sides so why not equate these two?
 
 $$ mc^2 = h\nu $$
 
