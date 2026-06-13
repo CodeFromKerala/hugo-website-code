@@ -10,3 +10,4 @@ Here's where the larping and the flexing are going to start (yea you haven't see
 - [This Website](/blog/website)
 - [Music I listen to](/blog/music)
 - [My thoughts on physics](/blog/my-thoughts-pola)
+- [Doki Doki Literature Club](/blog/ddlc/)
