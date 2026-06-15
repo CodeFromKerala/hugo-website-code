@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+        
+            Variational Calculus | Madhav J Nair
+        
+    </title>
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css">
+
+<script defer
+        src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js"></script>
+
+<script defer
+        src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+        delimiters: [
+            { left: "$$", right: "$$", display: true },
+            { left: "$", right: "$", display: false },
+            { left: "\\(", right: "\\)", display: false },
+            { left: "\\[", right: "\\]", display: true }
+        ],
+        throwOnError: false
+    });
+});
+</script>
+</head>
+
+<body>
+
+    <header>
+
+    <h1>
+        <a href="/">Madhav J Nair</a>
+    </h1>
+
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about/">About</a>
+        <a href="/projects/">Projects</a>
+        <a href="/notes/">Notes</a>
+        <a href="/blog/">Blog</a>
+    </nav>
+    <h4 style="font-style: italic">Math. Programming. Shithousery.</h4>
+</header>
+
+    <main>
+        
+
+<article>
+    <p>Welcome. Variational Calculus is not THAT scary. It&rsquo;s just big-brain optimisation.</p>
+<p>Remember how we used to find the minimum of a function $ f(x) $ ?</p>
+<p>Same thing. Instead, we use a functional.</p>
+<h2 id="wtf-is-a-functional-">WTF is a functional ?</h2>
+<p>Functional can be compared to a function, but instead of mapping a number to another, we map a function to a number.</p>
+<p>In weird math symbols, $ f : A \to B $ as $y = f(x), \, x \in A, y \in B$. Here, the functional, $J : \mathcal{F} \to A$ as $ J[f] = n, \, f \in \mathcal{F}, n \in A$.</p>
+<p><em>All this scary stuff just says that the functional J takes in some function and gives output number.</em></p>
+<p>In the works of Leonhard Euler and Joseph-Louis Lagrange, the functional is minimised. <em>forshadowing</em></p>
+<h2 id="minimisation-of-functional">Minimisation of functional</h2>
+<p>To find the minimum of a functional, we just use the first derivative - to find where the slope reaches zero. However, this is not really the minimum, but where the function becomes stationary.</p>
+<p>But here, if you look closer, the functional is defined by a function, rather than a number. We already know that in multivariable calculus, there is an infinite number of directions we can take the derivative in.</p>
+<p>It is the same for function spaces in the sense as they are infinite dimensional. The fun thingy is that we can choose the &ldquo;direction&rdquo; of the derivative we take so that we can minimise along it.</p>
+<p>Suppose our functional is $ J[f] $ and $ y $, the required function, minimises it.</p>
+<p>Now if we just determine that the input $f$ is of the form below such that it is the &ldquo;variation&rdquo; of optimal function $y$.</p>
+<p>$$ f = y + \epsilon \eta $$</p>
+<p>where we take $\eta$ as an arbitrary function (random function we chose for &ldquo;direction&rdquo;).</p>
+<p>Why tho ?</p>
+<p>See, here $\epsilon$ is the only change-able variable. Hence, we can re-write the functional as a function.</p>
+<p>$$ \phi(\epsilon) = J[y+\epsilon\eta] $$</p>
+<p>Yay. We are almost there.</p>
+<p>Now we can just minimise / maximise this function like any real function. Just take derivative, set to zero.</p>
+<p>$$ \frac{d}{d\epsilon} \phi(\epsilon) = 0$$</p>
+<p>Now, this functional can be of very, very, weird forms. Maybe integral forms.</p>
+<p>But, the notation of the stationary-ness of a function is given by</p>
+<p>$$ \delta J = 0 $$</p>
+<p>called the <em>variation</em> of $J$, which is equivalent to the ODE of $\phi (\epsilon)$ above.</p>
+<p>If you have trouble keeping up with the notation - consult analysis textbooks for basic real analysis.</p>
+<p><em>Just know the ideas here are non-rigorous for just understanding physics. I will be uploading a more rigorous definitions later in my real analysis series.</em></p>
+
+</article>
+
+
+    </main>
+
+    <footer>
+
+    <p>
+        © 2026 Madhav J Nair
+    </p>
+    <p>
+        Thank FOSS for <a href="https://gohugo.io/">Hugo</a>
+    </p>
+</footer>
+
+</body>
+</html>

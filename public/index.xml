@@ -60,5 +60,12 @@
 				<guid>https://codefromkerala.github.io/blog/website/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://codefromkerala.github.io/blog&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;8th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;Making the website you are reading right now wasn&amp;rsquo;t a one hit wonder. I went through 2 stages of unfinished basic HTML-CSS crap, 3 stages of anguish and hatred, then migrated to react, and now settled on &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;, a static web-page framework.&lt;/p&gt;&#xA;&lt;p&gt;This is a much easier way to generate static webpages holding the same type of style and content. I will probably stick with this until there is something really big that I can&amp;rsquo;t accomplish on this and then migrate to that, and end back up with hugo again.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Variational Calculus</title>
+				<link>https://codefromkerala.github.io/notes/var-calc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://codefromkerala.github.io/notes/var-calc/</guid>
+				<description>&lt;p&gt;Welcome. Variational Calculus is not THAT scary. It&amp;rsquo;s just big-brain optimisation.&lt;/p&gt;&#xA;&lt;p&gt;Remember how we used to find the minimum of a function $ f(x) $ ?&lt;/p&gt;&#xA;&lt;p&gt;Same thing. Instead, we use a functional.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wtf-is-a-functional-&#34;&gt;WTF is a functional ?&lt;/h2&gt;&#xA;&lt;p&gt;Functional can be compared to a function, but instead of mapping a number to another, we map a function to a number.&lt;/p&gt;&#xA;&lt;p&gt;In weird math symbols, $ f : A \to B $ as $y = f(x), \, x \in A, y \in B$. Here, the functional, $J : \mathcal{F} \to A$ as $ J[f] = n, \, f \in \mathcal{F}, n \in A$.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

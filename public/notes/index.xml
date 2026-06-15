@@ -11,5 +11,12 @@
 		
 		
 			<atom:link href="https://codefromkerala.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Variational Calculus</title>
+				<link>https://codefromkerala.github.io/notes/var-calc/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://codefromkerala.github.io/notes/var-calc/</guid>
+				<description>&lt;p&gt;Welcome. Variational Calculus is not THAT scary. It&amp;rsquo;s just big-brain optimisation.&lt;/p&gt;&#xA;&lt;p&gt;Remember how we used to find the minimum of a function $ f(x) $ ?&lt;/p&gt;&#xA;&lt;p&gt;Same thing. Instead, we use a functional.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wtf-is-a-functional-&#34;&gt;WTF is a functional ?&lt;/h2&gt;&#xA;&lt;p&gt;Functional can be compared to a function, but instead of mapping a number to another, we map a function to a number.&lt;/p&gt;&#xA;&lt;p&gt;In weird math symbols, $ f : A \to B $ as $y = f(x), \, x \in A, y \in B$. Here, the functional, $J : \mathcal{F} \to A$ as $ J[f] = n, \, f \in \mathcal{F}, n \in A$.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

@@ -6,6 +6,7 @@ Here lies 3 AM thoughts. Read at your own risk. Send questions to my [Email](mai
 
 - [Fractional Calculus](/notes/frac-calc/)
 - [Principle Of Least Action](/notes/least-action)
+- [Variational Calculus](/notes/var-calc)
 
 Ok, Imma be real for a moment.
 
