@@ -20,3 +20,6 @@ Cus im bored. please forgive my grammar errors.
 Thanks. Check [About](/about) page.
 
 PS: I will be using profanity and degrading words. I know these can offend individuals but please understand that it is all for humour. Please contact me if you feel as though I have crossed a line or have posted something genuinely hurtful.
+
+00101111 01101000 01101111 01101101 01100101 00101111 01101011 01110100
+

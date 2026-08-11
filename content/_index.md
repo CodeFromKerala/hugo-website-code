@@ -2,6 +2,8 @@
 Title: Home
 disableList: true
 ---
+goto \home
+
 Welcome to where I vent about my problems and larp about my achievements.
 
 You are going to see math. You are going to see programming. You are going to see the finest shithousery and read the sweetest bullshit in the world. Thank me later.
