@@ -11,5 +11,12 @@
 		
 		
 			<atom:link href="https://codefromkerala.github.io/blog/music/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Horrible Vocals</title>
+				<link>https://codefromkerala.github.io/blog/music/vocals/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://codefromkerala.github.io/blog/music/vocals/</guid>
+				<description>&lt;p&gt;Yea so I wanted to learn how to rap and properly mix those vocals so I tried something today.&lt;/p&gt;&#xA;&lt;p&gt;I think the lack of skill I have with my voice cannot be saved by my insane EQ-ing skills.&lt;/p&gt;&#xA;&lt;p&gt;I will be uploading some stuff after I get enough confidence to record good vocals.&lt;/p&gt;&#xA;&lt;p&gt;Toodles&lt;/p&gt;&#xA;&lt;p&gt;Madhav&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

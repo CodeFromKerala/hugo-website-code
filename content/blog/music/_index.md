@@ -8,6 +8,8 @@ I usually use FL Studio. I use drum sounds I lifted off reddit and for melodies 
 
 Ive recently got into making the beats better by mixing them properly. So I will be putting all that shi here.
 
+-[Vocals](/blog/music/vocals)
+
 Toodles 
 
 Madhav
