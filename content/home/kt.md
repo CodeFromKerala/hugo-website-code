@@ -31,6 +31,8 @@ No one has ever even come close to knowing me this much. I was, to a point, igno
 
 I'm still confused about how she feels. I'm pretty sure its anger towards me (and herself probably). I know even she is confused by her feelings. I just wish I knew she wanted me the same as I wanted her.
 
+I never regretted meeting you. I've never regretted staying. I don't think I ever will cus you have brought so much happiness in my life in such a short amount of time.
+
 I forgot how well I used to sleep, knowing you would talk to me again in the morning.
 
 01010100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110010 01100101 01100001 01100100 01101001 01101110 01100111 00101100 00100000 01110000 01110010 01101001 01101110 01100011 01100101 01110011 01110011

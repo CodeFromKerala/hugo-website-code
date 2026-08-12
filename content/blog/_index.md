@@ -1,7 +1,7 @@
 ---
 Title: Blog
 ---
-
+goto /home use url
 Here's where the larping and the flexing are going to start (yea you haven't seen anything yet.)
 
 ## My Blogs
