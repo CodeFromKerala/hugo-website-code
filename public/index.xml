@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Home on Madhav&#39;s Site</title>
-		<link>https://codefromkerala.github.io/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content in Home on Madhav&#39;s Site</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,68 +10,75 @@
 		
 		
 		
-			<atom:link href="https://codefromkerala.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>DDLC End Screen 1</title>
-				<link>https://codefromkerala.github.io/blog/ddlc/es1/</link>
+				<link>http://localhost:1313/blog/ddlc/es1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/blog/ddlc/es1/</guid>
+				<guid>http://localhost:1313/blog/ddlc/es1/</guid>
 				<description>&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;Ok. So here is what happened so far.&lt;/p&gt;&#xA;&lt;p&gt;During most of poetry comparisons part, I had chosen to go with the character yuri as my interest. Mainly cus she bad asl.&lt;/p&gt;&#xA;&lt;p&gt;Now, when Sayori confessed, my choice was to tell her the truth that we were just friends.&lt;/p&gt;&#xA;&lt;p&gt;After that interaction, yuri had come over to my house to settle the festival preperations, and I noticed the music getting glitchy.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Horrible Vocals</title>
-				<link>https://codefromkerala.github.io/blog/music/vocals/</link>
+				<link>http://localhost:1313/blog/music/vocals/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/blog/music/vocals/</guid>
+				<guid>http://localhost:1313/blog/music/vocals/</guid>
 				<description>&lt;p&gt;Yea so I wanted to learn how to rap and properly mix those vocals so I tried something today.&lt;/p&gt;&#xA;&lt;p&gt;I think the lack of skill I have with my voice cannot be saved by my insane EQ-ing skills.&lt;/p&gt;&#xA;&lt;p&gt;I will be uploading some stuff after I get enough confidence to record good vocals.&lt;/p&gt;&#xA;&lt;p&gt;Toodles&lt;/p&gt;&#xA;&lt;p&gt;Madhav&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Locality vs Globality</title>
-				<link>https://codefromkerala.github.io/notes/frac-calc/localvsglobal/</link>
+				<link>http://localhost:1313/notes/frac-calc/localvsglobal/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/notes/frac-calc/localvsglobal/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://codefromkerala.github.io/notes/frac-calc&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;9th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Ooh baby, this is where shit gets real.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-locality-and-globality-btw-&#34;&gt;What is Locality and Globality btw ?&lt;/h3&gt;&#xA;&lt;p&gt;Ok so think about an operator like derivative at some point $a$. This derivative only requires the behaviour of the function in the &lt;em&gt;neighbourhood&lt;/em&gt; of a point like $a = 0$. Hence, we call it local.&lt;/p&gt;&#xA;&lt;p&gt;We denote this &amp;ldquo;neighbourhood&amp;rdquo; by $x \in [a - \epsilon, a + \epsilon]$ or $|x-a| &amp;lt; \epsilon$.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/notes/frac-calc/localvsglobal/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/notes/frac-calc&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;9th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Ooh baby, this is where shit gets real.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-locality-and-globality-btw-&#34;&gt;What is Locality and Globality btw ?&lt;/h3&gt;&#xA;&lt;p&gt;Ok so think about an operator like derivative at some point $a$. This derivative only requires the behaviour of the function in the &lt;em&gt;neighbourhood&lt;/em&gt; of a point like $a = 0$. Hence, we call it local.&lt;/p&gt;&#xA;&lt;p&gt;We denote this &amp;ldquo;neighbourhood&amp;rdquo; by $x \in [a - \epsilon, a + \epsilon]$ or $|x-a| &amp;lt; \epsilon$.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My thoughts on physics</title>
-				<link>https://codefromkerala.github.io/blog/my-thoughts-pola/</link>
+				<link>http://localhost:1313/blog/my-thoughts-pola/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/blog/my-thoughts-pola/</guid>
+				<guid>http://localhost:1313/blog/my-thoughts-pola/</guid>
 				<description>&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;So here&amp;rsquo;s the thing, we all know the education system is shit. There is going to be a bunch of berating of the education system. Please chicken out if you are a wimp.&lt;/p&gt;&#xA;&lt;p&gt;Now that we have people with hella spunk, lets talk shit about the education system.&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know what it is, but the little guy in my head craves explanations and rigour in them for everything (I think that&amp;rsquo;s called curiosity, you ignorant fuck). So when people pull shit off in science or math and give a hand-wavy justification, it pisses me off.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Operator and Basics</title>
-				<link>https://codefromkerala.github.io/notes/frac-calc/opandbasics/</link>
+				<link>http://localhost:1313/notes/frac-calc/opandbasics/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/notes/frac-calc/opandbasics/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://codefromkerala.github.io/notes/frac-calc&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;9th June 2026&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-an-operator-&#34;&gt;What is an Operator ?&lt;/h3&gt;&#xA;&lt;p&gt;An operator can be thought of as a function of functions. To be clearer, it maps a function to another. For example, similar to how $ f(x) $ maps $ x \to y $ as $f(x) = y$, we can use $O$, which is an operator to map $f \to g$ as $O \, f = g$.&lt;/p&gt;&#xA;&lt;h3 id=&#34;where-did-this-fractional-calculus-idea-come-from-&#34;&gt;Where did this fractional calculus idea come from ?&lt;/h3&gt;&#xA;&lt;p&gt;Well, the fractional calculus story begins with Riemann, &lt;em&gt;who formed a kernel through heuristic methods&lt;/em&gt;, which is a complicated way of saying that he made an educated guess as to which what the fractional derivative operator will look like. His work was continued by Liouville, who found a inductive proof of the Riemann operator.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/notes/frac-calc/opandbasics/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/notes/frac-calc&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;9th June 2026&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-an-operator-&#34;&gt;What is an Operator ?&lt;/h3&gt;&#xA;&lt;p&gt;An operator can be thought of as a function of functions. To be clearer, it maps a function to another. For example, similar to how $ f(x) $ maps $ x \to y $ as $f(x) = y$, we can use $O$, which is an operator to map $f \to g$ as $O \, f = g$.&lt;/p&gt;&#xA;&lt;h3 id=&#34;where-did-this-fractional-calculus-idea-come-from-&#34;&gt;Where did this fractional calculus idea come from ?&lt;/h3&gt;&#xA;&lt;p&gt;Well, the fractional calculus story begins with Riemann, &lt;em&gt;who formed a kernel through heuristic methods&lt;/em&gt;, which is a complicated way of saying that he made an educated guess as to which what the fractional derivative operator will look like. His work was continued by Liouville, who found a inductive proof of the Riemann operator.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Prerequisites for POLA</title>
-				<link>https://codefromkerala.github.io/notes/least-action/basics/</link>
+				<link>http://localhost:1313/notes/least-action/basics/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/notes/least-action/basics/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://codefromkerala.github.io/notes/least-action&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi. So these are some prerequisites if you wanna follow this series of notes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multivariable Calculus (Atleast till chain-rule of partial derivatives)&lt;/li&gt;&#xA;&lt;li&gt;Newtonian Physics (The three laws, some idea of optics)&lt;/li&gt;&#xA;&lt;li&gt;Electromagnetism (It&amp;rsquo;s not impossible if you don&amp;rsquo;t know - I will be explaining some necessary topics)&lt;/li&gt;&#xA;&lt;li&gt;hella spunk (mandatory)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ok. We got that out of the way. Now let&amp;rsquo;s get into some basics.&lt;/p&gt;&#xA;&lt;p&gt;I won&amp;rsquo;t get into a lot of math in this note - let&amp;rsquo;s save that for the next one.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/notes/least-action/basics/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/notes/least-action&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi. So these are some prerequisites if you wanna follow this series of notes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multivariable Calculus (Atleast till chain-rule of partial derivatives)&lt;/li&gt;&#xA;&lt;li&gt;Newtonian Physics (The three laws, some idea of optics)&lt;/li&gt;&#xA;&lt;li&gt;Electromagnetism (It&amp;rsquo;s not impossible if you don&amp;rsquo;t know - I will be explaining some necessary topics)&lt;/li&gt;&#xA;&lt;li&gt;hella spunk (mandatory)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ok. We got that out of the way. Now let&amp;rsquo;s get into some basics.&lt;/p&gt;&#xA;&lt;p&gt;I won&amp;rsquo;t get into a lot of math in this note - let&amp;rsquo;s save that for the next one.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Princess KT</title>
-				<link>https://codefromkerala.github.io/home/kt/</link>
+				<link>http://localhost:1313/home/kt/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/home/kt/</guid>
-				<description>&lt;p&gt;I deleted all of kt&amp;rsquo;s chat like the impulsive asshole I am.&lt;/p&gt;&#xA;&lt;p&gt;I made so many mistakes - time to analyse them then - updating soon ig.&lt;/p&gt;&#xA;&lt;p&gt;madhav&lt;/p&gt;</description>
+				<guid>http://localhost:1313/home/kt/</guid>
+				<description>&lt;p&gt;I deleted all of kt&amp;rsquo;s chat like the impulsive asshole I am.&lt;/p&gt;&#xA;&lt;p&gt;I made so many mistakes - time to analyse them then.&lt;/p&gt;&#xA;&lt;h3 id=&#34;date-12-08-2026&#34;&gt;Date: 12-08-2026&lt;/h3&gt;&#xA;&lt;p&gt;Kt is the sweetest and nicest girl I&amp;rsquo;ve ever met. I fell for her immediately, which I suspect is for her passion (and slight crazy nature).&lt;/p&gt;&#xA;&lt;p&gt;But as always, I can&amp;rsquo;t be trusted with good things. I messed up, I was careless and never checked up on her. Ever since deciding to give &amp;ldquo;this&amp;rdquo; a shot, I&amp;rsquo;ve been slacking.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>This Website</title>
-				<link>https://codefromkerala.github.io/blog/website/</link>
+				<link>http://localhost:1313/blog/website/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/blog/website/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://codefromkerala.github.io/blog&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;8th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;Making the website you are reading right now wasn&amp;rsquo;t a one hit wonder. I went through 2 stages of unfinished basic HTML-CSS crap, 3 stages of anguish and hatred, then migrated to react, and now settled on &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;, a static web-page framework.&lt;/p&gt;&#xA;&lt;p&gt;This is a much easier way to generate static webpages holding the same type of style and content. I will probably stick with this until there is something really big that I can&amp;rsquo;t accomplish on this and then migrate to that, and end back up with hugo again.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/blog/website/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;8th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;Making the website you are reading right now wasn&amp;rsquo;t a one hit wonder. I went through 2 stages of unfinished basic HTML-CSS crap, 3 stages of anguish and hatred, then migrated to react, and now settled on &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;, a static web-page framework.&lt;/p&gt;&#xA;&lt;p&gt;This is a much easier way to generate static webpages holding the same type of style and content. I will probably stick with this until there is something really big that I can&amp;rsquo;t accomplish on this and then migrate to that, and end back up with hugo again.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>us</title>
+				<link>http://localhost:1313/home/kt2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/home/kt2/</guid>
+				<description>&lt;p&gt;seconds&lt;/p&gt;&#xA;&lt;p&gt;minutes&lt;/p&gt;&#xA;&lt;p&gt;hours&lt;/p&gt;&#xA;&lt;p&gt;days&lt;/p&gt;&#xA;&lt;p&gt;weeks&lt;/p&gt;&#xA;&lt;p&gt;months&lt;/p&gt;&#xA;&lt;p&gt;seasons&lt;/p&gt;&#xA;&lt;p&gt;years&lt;/p&gt;&#xA;&lt;p&gt;decades&lt;/p&gt;&#xA;&lt;p&gt;centuries&lt;/p&gt;&#xA;&lt;p&gt;yet I never wanna be a goldfish to you&lt;/p&gt;&#xA;&lt;p&gt;light seconds&lt;/p&gt;&#xA;&lt;p&gt;light minutes&lt;/p&gt;&#xA;&lt;p&gt;light hours&lt;/p&gt;&#xA;&lt;p&gt;light days&lt;/p&gt;&#xA;&lt;p&gt;light weeks&lt;/p&gt;&#xA;&lt;p&gt;light months&lt;/p&gt;&#xA;&lt;p&gt;light years&lt;/p&gt;&#xA;&lt;p&gt;light decades&lt;/p&gt;&#xA;&lt;p&gt;light centuries&lt;/p&gt;&#xA;&lt;p&gt;yet I never wanna stop talking to you&lt;/p&gt;&#xA;&lt;p&gt;stress&lt;/p&gt;&#xA;&lt;p&gt;Stress&lt;/p&gt;&#xA;&lt;p&gt;STress&lt;/p&gt;&#xA;&lt;p&gt;STRess&lt;/p&gt;&#xA;&lt;p&gt;STREss&lt;/p&gt;&#xA;&lt;p&gt;STRESs&lt;/p&gt;&#xA;&lt;p&gt;STRESS&lt;/p&gt;&#xA;&lt;p&gt;yet I still wanna be with you&lt;/p&gt;&#xA;&lt;p&gt;whatever it throws at me, I wanna be with you&lt;/p&gt;&#xA;&lt;p&gt;answer everything, questions everything - you are still my everything&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Variational Calculus</title>
-				<link>https://codefromkerala.github.io/notes/var-calc/</link>
+				<link>http://localhost:1313/notes/var-calc/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/notes/var-calc/</guid>
+				<guid>http://localhost:1313/notes/var-calc/</guid>
 				<description>&lt;p&gt;Welcome. Variational Calculus is not THAT scary. It&amp;rsquo;s just big-brain optimisation.&lt;/p&gt;&#xA;&lt;p&gt;Remember how we used to find the minimum of a function $ f(x) $ ?&lt;/p&gt;&#xA;&lt;p&gt;Same thing. Instead, we use a functional.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wtf-is-a-functional-&#34;&gt;WTF is a functional ?&lt;/h2&gt;&#xA;&lt;p&gt;Functional can be compared to a function, but instead of mapping a number to another, we map a function to a number.&lt;/p&gt;&#xA;&lt;p&gt;In weird math symbols, $ f : A \to B $ as $y = f(x), \, x \in A, y \in B$. Here, the functional, $J : \mathcal{F} \to A$ as $ J[f] = n, \, f \in \mathcal{F}, n \in A$.&lt;/p&gt;</description>
 			</item>
 	</channel>

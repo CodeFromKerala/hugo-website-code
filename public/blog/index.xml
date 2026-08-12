@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Blog on Madhav&#39;s Site</title>
-		<link>https://codefromkerala.github.io/blog/</link>
+		<link>http://localhost:1313/blog/</link>
 		<description>Recent content in Blog on Madhav&#39;s Site</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,20 +10,20 @@
 		
 		
 		
-			<atom:link href="https://codefromkerala.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My thoughts on physics</title>
-				<link>https://codefromkerala.github.io/blog/my-thoughts-pola/</link>
+				<link>http://localhost:1313/blog/my-thoughts-pola/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/blog/my-thoughts-pola/</guid>
+				<guid>http://localhost:1313/blog/my-thoughts-pola/</guid>
 				<description>&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;So here&amp;rsquo;s the thing, we all know the education system is shit. There is going to be a bunch of berating of the education system. Please chicken out if you are a wimp.&lt;/p&gt;&#xA;&lt;p&gt;Now that we have people with hella spunk, lets talk shit about the education system.&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know what it is, but the little guy in my head craves explanations and rigour in them for everything (I think that&amp;rsquo;s called curiosity, you ignorant fuck). So when people pull shit off in science or math and give a hand-wavy justification, it pisses me off.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>This Website</title>
-				<link>https://codefromkerala.github.io/blog/website/</link>
+				<link>http://localhost:1313/blog/website/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/blog/website/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://codefromkerala.github.io/blog&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;8th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;Making the website you are reading right now wasn&amp;rsquo;t a one hit wonder. I went through 2 stages of unfinished basic HTML-CSS crap, 3 stages of anguish and hatred, then migrated to react, and now settled on &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;, a static web-page framework.&lt;/p&gt;&#xA;&lt;p&gt;This is a much easier way to generate static webpages holding the same type of style and content. I will probably stick with this until there is something really big that I can&amp;rsquo;t accomplish on this and then migrate to that, and end back up with hugo again.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/blog/website/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog&#34;&gt;back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;8th June 2026&lt;/p&gt;&#xA;&lt;p&gt;Hey,&lt;/p&gt;&#xA;&lt;p&gt;Making the website you are reading right now wasn&amp;rsquo;t a one hit wonder. I went through 2 stages of unfinished basic HTML-CSS crap, 3 stages of anguish and hatred, then migrated to react, and now settled on &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;, a static web-page framework.&lt;/p&gt;&#xA;&lt;p&gt;This is a much easier way to generate static webpages holding the same type of style and content. I will probably stick with this until there is something really big that I can&amp;rsquo;t accomplish on this and then migrate to that, and end back up with hugo again.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
