@@ -13,6 +13,8 @@ I want to do everything I can to make you happy. I want to help you reach your h
 
 I want you to love me and say it to me with conviction. Like I would do for you anyday, anytime forever.
 
+Never, ever did I want something this bad. (except a pencil pouch in 3rd grade we will talk about it later).
+
 I'm so scared that I won't be enough. I want you and you only.
 
 I'm so lucky to have met you.
