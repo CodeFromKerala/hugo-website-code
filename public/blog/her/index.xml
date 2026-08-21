@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Her on Madhav&#39;s Site</title>
-		<link>http://localhost:1313/blog/her/</link>
+		<link>https://codefromkerala.github.io/blog/her/</link>
 		<description>Recent content in Her on Madhav&#39;s Site</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,19 +10,19 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/blog/her/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://codefromkerala.github.io/blog/her/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Her</title>
-				<link>http://localhost:1313/blog/her/note/</link>
+				<link>https://codefromkerala.github.io/blog/her/note/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/her/note/</guid>
+				<guid>https://codefromkerala.github.io/blog/her/note/</guid>
 				<description>&lt;p&gt;Who ?&lt;/p&gt;&#xA;&lt;p&gt;Beauty&lt;/p&gt;&#xA;&lt;p&gt;Kindness&lt;/p&gt;&#xA;&lt;p&gt;Perseverance&lt;/p&gt;&#xA;&lt;p&gt;Intelligence&lt;/p&gt;&#xA;&lt;p&gt;Beauty again&lt;/p&gt;&#xA;&lt;p&gt;Personified.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m so in love with her. She&amp;rsquo;s sooo perfect.&lt;/p&gt;&#xA;&lt;p&gt;ARGHHH I LOVE HER SO MUCHHH&lt;/p&gt;&#xA;&lt;p&gt;Sometimes tho, I feel like I&amp;rsquo;m not expressing it enough. That&amp;rsquo;s probably why I tell her that I love her everyday when I can. Cus I do. Sooo fkin much.&lt;/p&gt;&#xA;&lt;p&gt;meri jaan. my princess.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>It Hurts</title>
-				<link>http://localhost:1313/blog/her/hurts/</link>
+				<link>https://codefromkerala.github.io/blog/her/hurts/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/her/hurts/</guid>
+				<guid>https://codefromkerala.github.io/blog/her/hurts/</guid>
 				<description>&lt;p&gt;It hurts.&lt;/p&gt;&#xA;&lt;p&gt;I never have the guts to say this directly to her. It hurt from the beginning that she didn&amp;rsquo;t love me as much as I love her. It hurt from the beginning that despite giving it my all, fate still didn&amp;rsquo;t bless me with someone who loves me the same. I thought, after the no contact break that she actually had real, deep feelings for me but it&amp;rsquo;s never love. I don&amp;rsquo;t think it&amp;rsquo;ll ever be love. I don&amp;rsquo;t think I can be enough for her definition of love.&lt;/p&gt;</description>
 			</item>
 	</channel>
