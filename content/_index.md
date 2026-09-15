@@ -2,7 +2,6 @@
 Title: Home
 disableList: true
 ---
-goto \home
 
 Welcome to where I vent about my problems and larp about my achievements.
 
