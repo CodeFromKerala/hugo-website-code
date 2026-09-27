@@ -7,4 +7,4 @@ Title: Her
 - [stuff](/blog/her/stuff)
 - [mmhm](/blog/her/mmhm)
 - [drishti](/blog/her/drishti)
-
+- [playlist](/blog/her/playlist)
