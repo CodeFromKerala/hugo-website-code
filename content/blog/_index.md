@@ -13,3 +13,4 @@ Here's where the larping and the flexing are going to start (yea you haven't see
 - [My thoughts on physics](/blog/my-thoughts-pola)
 - [Doki Doki Literature Club](/blog/ddlc/)
 - [Music](/blog/music)
+- [Archived](/blog/archived)
