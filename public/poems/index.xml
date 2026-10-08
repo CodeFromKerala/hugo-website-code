@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Poems on Madhav&#39;s Site</title>
+		<link>http://localhost:1313/poems/</link>
+		<description>Recent content in Poems on Madhav&#39;s Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/poems/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Cup</title>
+				<link>http://localhost:1313/poems/mycup/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/poems/mycup/</guid>
+				<description>&lt;h2 id=&#34;my-cup&#34;&gt;My Cup&lt;/h2&gt;&#xA;&lt;p&gt;I have a cup&#xA;And a desperate need to fill it&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know why tho&#xA;everyone else wants to just do it&lt;/p&gt;&#xA;&lt;p&gt;It seems impressive&#xA;How do they carry the cup without spilling?&#xA;How do they do the process of filling?&lt;/p&gt;&#xA;&lt;p&gt;I started finding ways to fill the cup&#xA;And the options were many&#xA;I just started to hoard them in&#xA;Pouring from every jug I found&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sand Me Down</title>
+				<link>http://localhost:1313/poems/sandmedown/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/poems/sandmedown/</guid>
+				<description>&lt;h2 id=&#34;sand-me-down&#34;&gt;Sand Me Down&lt;/h2&gt;&#xA;&lt;p&gt;Whispered questions&lt;/p&gt;&#xA;&lt;p&gt;Whispered answers&lt;/p&gt;&#xA;&lt;p&gt;Can&amp;rsquo;t pick myself apart&lt;/p&gt;&#xA;&lt;p&gt;Real me from the cancers&lt;/p&gt;&#xA;&lt;p&gt;She&amp;rsquo;s one of the dancers&lt;/p&gt;&#xA;&lt;p&gt;Wondering where are my manners&lt;/p&gt;&#xA;&lt;p&gt;Saying without doing is pretending&lt;/p&gt;&#xA;&lt;p&gt;Gotta be clear, what message I&amp;rsquo;m sending&lt;/p&gt;&#xA;&lt;p&gt;Have to, need to&lt;/p&gt;&#xA;&lt;p&gt;Preserve the beauty of my words&lt;/p&gt;&#xA;&lt;p&gt;My paragraphs&lt;/p&gt;&#xA;&lt;p&gt;My sentences&lt;/p&gt;&#xA;&lt;p&gt;Fixing everything that&amp;rsquo;s wrong&lt;/p&gt;&#xA;&lt;p&gt;Guided by a loving hand&lt;/p&gt;&#xA;&lt;p&gt;Find the strength to sand&lt;/p&gt;&#xA;&lt;p&gt;Away the uneven land&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
