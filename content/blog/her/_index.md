@@ -9,3 +9,4 @@ Title: Her
 - [drishti](/blog/her/drishti)
 - [playlist](/blog/her/playlist)
 - [yep](/blog/her/yep)
+- [last](/blog/her/last)
