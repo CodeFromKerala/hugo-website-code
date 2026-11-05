@@ -2,6 +2,7 @@
 Title: Her
 ---
 
+- [keerthana](/blog/her/keerthana)
 - [her](/blog/her/note)
 - [hurts](/blog/her/hurts)
 - [stuff](/blog/her/stuff)
