@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Poems on Madhav&#39;s Site</title>
-		<link>https://codefromkerala.github.io/poems/</link>
+		<link>http://localhost:1313/poems/</link>
 		<description>Recent content in Poems on Madhav&#39;s Site</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,40 +10,40 @@
 		
 		
 		
-			<atom:link href="https://codefromkerala.github.io/poems/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/poems/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Entropy</title>
-				<link>https://codefromkerala.github.io/poems/entropy/</link>
+				<link>http://localhost:1313/poems/entropy/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/poems/entropy/</guid>
+				<guid>http://localhost:1313/poems/entropy/</guid>
 				<description>&lt;p&gt;Entropy stares at order&#xA;wondering where it all went wrong&lt;/p&gt;&#xA;&lt;p&gt;Entropy fucking hates order&#xA;but looks at his life with envy&lt;/p&gt;&#xA;&lt;p&gt;Why can&amp;rsquo;t I make planets?&#xA;Why can&amp;rsquo;t I make comets?&#xA;Why doesn&amp;rsquo;t the universe want me to flourish?&lt;/p&gt;&#xA;&lt;p&gt;Little did entropy know&lt;/p&gt;&#xA;&lt;p&gt;That the universe tries to have more of her&#xA;in his life&lt;/p&gt;&#xA;&lt;p&gt;that she is everything the universe needs&lt;/p&gt;&#xA;&lt;p&gt;The large mountains, the large lakes&#xA;but unfortunately none of it makes&#xA;past entropy my dear&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fuck Me</title>
-				<link>https://codefromkerala.github.io/poems/fuckme/</link>
+				<link>http://localhost:1313/poems/fuckme/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/poems/fuckme/</guid>
+				<guid>http://localhost:1313/poems/fuckme/</guid>
 				<description>&lt;p&gt;Fuck Me, myself and I&lt;/p&gt;&#xA;&lt;p&gt;3 people all to hurt&lt;/p&gt;&#xA;&lt;p&gt;how are they better than dirt?&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading&#34;&gt;.&lt;/h1&gt;&#xA;&lt;p&gt;Fuck Me, myself and I&lt;/p&gt;&#xA;&lt;p&gt;I shouldn&amp;rsquo;t be here,&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t deserve this, I fear&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-1&#34;&gt;.&lt;/h1&gt;&#xA;&lt;p&gt;Fuck Me, myself and I&lt;/p&gt;&#xA;&lt;p&gt;All I do is lie&lt;/p&gt;&#xA;&lt;p&gt;All I do is cry&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-2&#34;&gt;.&lt;/h1&gt;&#xA;&lt;p&gt;Kill Me, myself and I&lt;/p&gt;&#xA;&lt;p&gt;please ma&amp;rsquo;am, end this misery&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-3&#34;&gt;.&lt;/h1&gt;&#xA;&lt;p&gt;Kill Me, myself and I&lt;/p&gt;&#xA;&lt;p&gt;die, and fuck the ass-kissery&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-4&#34;&gt;.&lt;/h1&gt;&#xA;&lt;p&gt;Kill Me, myself and I&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Highway</title>
-				<link>https://codefromkerala.github.io/poems/highway/</link>
+				<link>http://localhost:1313/poems/highway/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/poems/highway/</guid>
+				<guid>http://localhost:1313/poems/highway/</guid>
 				<description>&lt;p&gt;Order and law turn a blind eye&lt;/p&gt;&#xA;&lt;p&gt;a beggar in rags, a stranger in tie&lt;/p&gt;&#xA;&lt;p&gt;The cloth of justice covers her eyes&lt;/p&gt;&#xA;&lt;p&gt;the burden of truth, the burden of lies&lt;/p&gt;&#xA;&lt;p&gt;She cannot see, this through my eyes&lt;/p&gt;&#xA;&lt;p&gt;She stares down me, looks through my lies&lt;/p&gt;&#xA;&lt;p&gt;A kiln is the fire of birth&lt;/p&gt;&#xA;&lt;p&gt;even though she moulds with mirth&lt;/p&gt;&#xA;&lt;p&gt;the edges, the corners get smoothened out&lt;/p&gt;&#xA;&lt;p&gt;the parts of my life hidden by my clout&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My Cup</title>
-				<link>https://codefromkerala.github.io/poems/mycup/</link>
+				<link>http://localhost:1313/poems/mycup/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/poems/mycup/</guid>
+				<guid>http://localhost:1313/poems/mycup/</guid>
 				<description>&lt;h2 id=&#34;my-cup&#34;&gt;My Cup&lt;/h2&gt;&#xA;&lt;p&gt;I have a cup&#xA;And a desperate need to fill it&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know why tho&#xA;everyone else wants to just do it&lt;/p&gt;&#xA;&lt;p&gt;It seems impressive&#xA;How do they carry the cup without spilling?&#xA;How do they do the process of filling?&lt;/p&gt;&#xA;&lt;p&gt;I started finding ways to fill the cup&#xA;And the options were many&#xA;I just started to hoard them in&#xA;Pouring from every jug I found&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sand Me Down</title>
-				<link>https://codefromkerala.github.io/poems/sandmedown/</link>
+				<link>http://localhost:1313/poems/sandmedown/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://codefromkerala.github.io/poems/sandmedown/</guid>
+				<guid>http://localhost:1313/poems/sandmedown/</guid>
 				<description>&lt;h2 id=&#34;sand-me-down&#34;&gt;Sand Me Down&lt;/h2&gt;&#xA;&lt;p&gt;Whispered questions&lt;/p&gt;&#xA;&lt;p&gt;Whispered answers&lt;/p&gt;&#xA;&lt;p&gt;Can&amp;rsquo;t pick myself apart&lt;/p&gt;&#xA;&lt;p&gt;Real me from the cancers&lt;/p&gt;&#xA;&lt;p&gt;She&amp;rsquo;s one of the dancers&lt;/p&gt;&#xA;&lt;p&gt;Wondering where are my manners&lt;/p&gt;&#xA;&lt;p&gt;Saying without doing is pretending&lt;/p&gt;&#xA;&lt;p&gt;Gotta be clear, what message I&amp;rsquo;m sending&lt;/p&gt;&#xA;&lt;p&gt;Have to, need to&lt;/p&gt;&#xA;&lt;p&gt;Preserve the beauty of my words&lt;/p&gt;&#xA;&lt;p&gt;My paragraphs&lt;/p&gt;&#xA;&lt;p&gt;My sentences&lt;/p&gt;&#xA;&lt;p&gt;Fixing everything that&amp;rsquo;s wrong&lt;/p&gt;&#xA;&lt;p&gt;Guided by a loving hand&lt;/p&gt;&#xA;&lt;p&gt;Find the strength to sand&lt;/p&gt;&#xA;&lt;p&gt;Away the uneven land&lt;/p&gt;</description>
 			</item>
 	</channel>
