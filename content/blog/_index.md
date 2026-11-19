@@ -6,6 +6,7 @@ Here's where the larping and the flexing are going to start (yea you haven't see
 
 ## My Blogs
 
+- [Fool's Gold](/blog/foolsgold/)
 - [Messages for keerthana](/blog/messages_for_keerthana)
 - [Daily](/blog/daily/)
 - [Her](/blog/her)
